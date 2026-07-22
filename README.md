@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **"I am a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
 
-<img src="https://github.com/Sonalimishra-777/Sonalimishra-777/blob/main/Github.png?raw=true" width="1000" />
+<img src="https://github.com/navinsingh1385/navinsingh1385/blob/main/PIC1.png?raw=true" width="1000" />
 
 
 <h3 align="left">Connect with me:</h3>
