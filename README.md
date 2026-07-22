@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
-<h3 align="center">🎯 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights</h3>
+<h1 align="center">Hi 👋, I'm Navin Singh</h1>
+<h3 align="center">🎯 Aspiring Data Scientist | Passionate About Turning Data into Actionable Insights</h3>
 
 - 🔭 I’m working on various **Data Analysis and Data Science projects**
 
 - 👯 I’m looking to collaborate on **Data Analytics projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sonalimishra-777](https://github.com/Sonalimishra-777)
+- 👨‍💻 All of my projects are available at [https://github.com/navinsingh1385](https://github.com/navinsingh1385)
 
-- 📫 How to reach me **sonali.mishra.ds@gmail.com**
+- 📫 How to reach me **navinsinghuk04@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/4lBKfgU
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **"I am a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sonali-dharmraj-mishra" target="_blank">
+  <a href="https://www.linkedin.com/in/naavin-singh-rajput/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
